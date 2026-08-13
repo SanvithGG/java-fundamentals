@@ -4,8 +4,13 @@ A structured repository containing Core Java practice programs, section-wise exe
 
 ## 📂 Repository Structure
 
-- **`Section_01/`**: Basic syntax, conditional statements (`if-else`, decision-making logic), and arithmetic exercises.
-- **`Section_02/`**: Loops (`for`, `while`), mathematical logic, and pattern building.
+- **`Section_01/`**
+  - **`Basic_Syntax/`**: Hello World and personal details programs.
+  - **`Arithmetic/`**: Mathematical calculations, Scanner input, area, average, speed, and sum algorithms.
+  - **`Conditionals/`**: Decision-making logic (`if`, `if-else`, `if-else-if`, nested `if`, ternary operator exercises).
+  - **`Switch/`**: Multi-way branching programs (`switch-case` calendar, calculator, seasons, etc.).
+- **`Section_02/`**
+  - **`Loops/`**: Iterative control flow (`for`, `while`, `do-while` loops, factorials, numbers in range, reverse).
 - **`Section_03/`**: Advanced logic, functions, arrays, and Object-Oriented Programming (OOP) concepts.
 
 ## 🚀 Getting Started
