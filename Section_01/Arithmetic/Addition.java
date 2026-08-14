@@ -15,5 +15,6 @@ public class Addition {
 
         System.out.println("Sum of a and b is " + sum);
         sc.close();
+        sc.close();
     }
 }

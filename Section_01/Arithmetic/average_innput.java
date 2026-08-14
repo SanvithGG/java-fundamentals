@@ -26,5 +26,6 @@ public class average_innput {
         System.out.println("the total is " + total);
         System.out.println("The average is " + avg);
         sc.close();
+        sc.close();
     }
 }
