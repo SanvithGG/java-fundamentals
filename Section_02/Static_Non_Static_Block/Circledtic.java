@@ -1,18 +1,19 @@
+package Static_Non_Static_Block;
 import java.util.Scanner;
 
 public class Circledtic {
 
-    static double pie;
-
-    static {
-        pie = 3.14;
-    }
-
+    static double pie = 3.14;;
     public int radius;
+    // static {
+    //     pie = 3.14;
+    // }
 
-    {
-        System.out.println("Enter the radius");
-    }
+    // public int radius;
+
+    // {
+    //     System.out.println("Enter the radius");
+    // }
 
     public static void area(double radius) {
         double area = pie * radius * radius;
@@ -32,12 +33,15 @@ public class Circledtic {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Circledtic c1 = new Circledtic();
-
+        System.out.println("Enter the radius");
         c1.radius = sc.nextInt();
 
         area(c1.radius);
         circum(c1.radius);
         diamet(c1.radius);
         sc.close();
+        sc.close();
     }
 }
+
+// 

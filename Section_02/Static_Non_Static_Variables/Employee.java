@@ -1,3 +1,4 @@
+package Static_Non_Static_Variables;
 public class Employee {
     public static String comp_name = "TCS";
     public static String work_loc = "Banglore";

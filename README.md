@@ -8,10 +8,14 @@ A structured repository containing Core Java practice programs, section-wise exe
   - **`Basic_Syntax/`**: Hello World and personal details programs.
   - **`Arithmetic/`**: Mathematical calculations, Scanner input, area, average, speed, and sum algorithms.
   - **`Conditionals/`**: Decision-making logic (`if`, `if-else`, `if-else-if`, nested `if`, ternary operator exercises).
+  - **`Loops/`**: Iterative control flow (`for`, `while`, `do-while` loops, factorials, numbers in range, reverse).
+  - **`Methods/`**: Function modularity, parameter passing, return values, and recursion.
   - **`Switch/`**: Multi-way branching programs (`switch-case` calendar, calculator, seasons, etc.).
 - **`Section_02/`**
-  - **`Loops/`**: Iterative control flow (`for`, `while`, `do-while` loops, factorials, numbers in range, reverse).
-- **`Section_03/`**: Advanced logic, functions, arrays, and Object-Oriented Programming (OOP) concepts.
+  - **`Constructor_chaining/`**: Constructor overloading and `this()` chaining practice (`Accountscon`, etc.).
+  - **`Static_Non_Static_Block/`**: Execution order of static/non-static initialization blocks.
+  - **`Static_Non_Static_Variables/`**: Class-level vs instance-level variables and memory behavior.
+- **`Section_03/`**: Advanced logic, collections, and Object-Oriented Programming (OOP) concepts.
 
 ## 🚀 Getting Started
 
