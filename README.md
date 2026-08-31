@@ -13,6 +13,7 @@ A structured repository containing Core Java practice programs, section-wise exe
   - **`Switch/`**: Multi-way branching programs (`switch-case` calendar, calculator, seasons, etc.).
 - **`Section_02/`**
   - **`Constructor_chaining/`**: Constructor overloading and `this()` chaining practice (`Accountscon`, etc.).
+  - **`Encapsulation/`**: Data hiding, getter and setter methods, data validation, and JavaBean implementation examples (`Accounts`, `Instagram`, `Student`, `Phonepay`, `Employee`, `Mobile`, `FlipKart`).
   - **`Static_Non_Static_Block/`**: Execution order of static/non-static initialization blocks.
   - **`Static_Non_Static_Variables/`**: Class-level vs instance-level variables and memory behavior.
 - **`Section_03/`**: Advanced logic, collections, and Object-Oriented Programming (OOP) concepts.
