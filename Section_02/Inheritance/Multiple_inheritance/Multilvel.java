@@ -32,6 +32,5 @@ public class Multilvel {
         m1.play();
         m1.calculate();
         m1.browsing();
-    
     }
 }
